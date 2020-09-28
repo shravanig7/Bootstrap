@@ -1,0 +1,41 @@
+#services{
+   margin-top: 20px;
+}
+.services_column{
+   padding: 10px;;
+}
+.img-container{
+   text-align: center;
+}
+#gallery{
+   margin-top: 55px;
+}
+footer{
+   margin-top: 20px;
+   background-color: black;
+   color: white;
+   padding: 2px;
+}
+.footer_link{
+   color: white;
+   text-decoration: none;
+}
+.footer_link:hover{
+   text-decoration: none;
+}
+button{
+   margin-top: 20px;
+} 
+ul{
+   list-style: none;
+}
+#logo{
+   margin-left: 100px;
+}
+#dialogue{
+   margin-top: 40px;
+}
+h2{
+   margin-bottom: 10px;
+}
+
